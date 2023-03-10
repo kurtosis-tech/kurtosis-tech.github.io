@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta name="go-import" content="go.kurtosis.com/sdk git https://github.com/kurtosis-tech/kurtosis">
-        <meta name="go-source" content="code.gyt.is/writefreely https://github.com/kurtosis-tech/kurtosis/api/golang https://github.com/kurtosis-tech/kurtosis/tree/main/api/golang{/dir} https://github.com/kurtosis-tech/kurtosis/blob/main/api/golang{/dir}/{file}#L{line}" />
+        <meta name="go-source" content="go.kurtosis.com/sdk https://github.com/kurtosis-tech/kurtosis/api/golang https://github.com/kurtosis-tech/kurtosis/tree/main/api/golang{/dir} https://github.com/kurtosis-tech/kurtosis/blob/main/api/golang{/dir}/{file}#L{line}" />
         <meta http-equiv="refresh" content="0;URL='https://github.com/kurtosis-tech/kurtosis/api/golang'">
     </head>
     <body>
